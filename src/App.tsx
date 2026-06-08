@@ -110,7 +110,7 @@ export default function App() {
               {/* Interactive Gen Z CTAs */}
               <div className="flex flex-col sm:flex-row items-stretch sm:items-center gap-4 w-full max-w-md pt-3 z-30">
                 <a
-                  href="https://chromewebstore.google.com/"
+                  href="https://chromewebstore.google.com/detail/snaplink-%E2%80%94-screenshot-to/opkpnnfgjclimhbpcicdmmmhjgnkfknn?authuser=0&hl=en"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="group relative flex items-center justify-center space-x-2 bg-lime-300 text-black border-2 border-black font-mono font-black text-xs sm:text-sm uppercase tracking-wide px-5 py-3.5 rounded-xl transition-all duration-200 transform hover:-translate-y-1 hover:-translate-x-1 hover:shadow-[6px_6px_0px_0px_#f43f5e] shadow-[4px_4px_0px_0px_#f43f5e] active:translate-y-0 active:translate-x-0 active:shadow-[1px_1px_0px_0px_#f43f5e] cursor-pointer"
